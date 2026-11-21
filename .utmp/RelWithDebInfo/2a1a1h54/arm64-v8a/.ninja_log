@@ -1,0 +1,10 @@
+# ninja log v5
+131	7034	8167467021905691	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	f1e86b07647969b1
+186	7098	8167467021652760	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	74b6914fdb44d473
+46	7114	8167467022642134	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	bf17d4f095d47ad6
+360	7138	8167467022969312	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	3235552e66a02abf
+83	7342	8167467025102071	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	e1f274ff78a45c6b
+304	7654	8167467028297771	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	2642cef1c2cefd11
+246	8112	8167467032838603	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	37bdf4cfd9777f9b
+2	8525	8167467036973916	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	bd0f64917ee5bd13
+8526	8960	8167467041253671	C:/Users/samae/MuseumGuardian_ADHD_VR/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/2a1a1h54/obj/arm64-v8a/libgame.so	ed341a3aafbbb7e6
